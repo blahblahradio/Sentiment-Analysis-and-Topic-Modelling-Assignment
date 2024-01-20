@@ -1,6 +1,6 @@
 # Sentiment Analysis and Topic Modelling Report
 
-## 1. Sentiment Analysis (3pts)
+## 1. Sentiment Analysis
 
 ### Dataset Overview
 For sentiment analysis, we utilized the IMDb dataset, consisting of movie reviews stored in a .csv file. The dataset includes two attributes:
@@ -17,7 +17,7 @@ Our team successfully completed the following tasks:
 
 2. **Evaluated Model Performance:** The trained model's performance was evaluated by calculating precision, recall, and F1-score measurements on the validation dataset.
 
-## 2. Topic Modelling (3pts)
+## 2. Topic Modelling
 
 ### Dataset Overview
 Our topic modelling analysis focused on news headlines from the Australian news source ABC, stored as a .csv file. The dataset includes two attributes:
